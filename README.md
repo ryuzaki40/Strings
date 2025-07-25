@@ -28,9 +28,7 @@ string-programs/
 ├── README.md
 └── .gitignore
 
-yaml
-Copy
-Edit
+
 
 ---
 
