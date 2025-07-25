@@ -1,0 +1,30 @@
+
+---
+
+### ✅ `.gitignore`
+
+```gitignore
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# IntelliJ / VS Code / Eclipse settings
+.idea/
+*.iml
+*.log
+.vscode/
+*.classpath
+*.project
+*.settings/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Output or temp
+out/
+bin/
